@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiProcess-Application</string>
+    <string name="notification">"Сервис запущен и работает "</string>
+</resources>
